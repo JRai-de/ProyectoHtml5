@@ -1,0 +1,74 @@
+﻿body {
+    background-image: url(image/gg.gif);
+    background-position: top;
+   
+}
+
+
+#contenedor {
+    background-image: url(image/aa.gif);
+    width: 1000px;
+    height: 1440px;
+    position: relative; /*absolute*/
+    top: 120px;
+    right: 30%;
+    left: 15%;
+    background-repeat: repeat;
+}
+#header h1 {
+    position: relative;
+    margin-top: 25px;
+    margin-left: 160px;
+    color: #A411C1;
+}
+
+
+#ma #myCanvas {
+    position: relative; /*absolute*/
+    top: 350px;
+    bottom:0;
+    right: 20%;
+    left: 25%;
+    background-color:black;
+    color:gold;
+}
+
+h1 {
+    font-size: 220px;
+    color: moccasin
+
+}
+#imagen1 img {
+    position: relative; /*absolute*/
+    right: 0px;
+    bottom: 500px;
+    width: 260px;
+}
+#imagen2 img {
+    position: relative;
+    width: 255px;
+    left: 0px;
+    bottom:40px;
+}
+#imagen3 img {
+    position: relative; /*absolute;*/
+    right: ;
+    bottom: 920px;
+    width: 245px;
+    left: 755px;
+}
+
+#imagen4 img{
+    position: relative;
+    width: 215px;
+    bottom: 465px;
+    left:785px
+}
+#imagenfinal img {
+    position: relative; /*absolute;*/
+    top: 550px;
+    width: 160px;
+    left: 65%;
+    right: 25%
+}
+
